@@ -1,0 +1,29 @@
+.wrapper {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+.ad {
+    text-align: center;
+    border: 1px solid #0000FF;
+}
+
+#header-ad {
+    /* position: -webkit-sticky; */
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 1px solid #00FF00;
+    background-color: #FFFFFF;
+}
+
+.main {
+    border: none;
+}
